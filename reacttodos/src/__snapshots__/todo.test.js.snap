@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches initial snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <li>
+      default todo
+    </li>
+    <button>
+      Edit Task
+    </button>
+    <button>
+      Remove Task
+    </button>
+  </div>
+</DocumentFragment>
+`;
